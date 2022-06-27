@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sourdevil-alpha/static/css/main.0e2a52a8.css",
+    "main.js": "/sourdevil-alpha/static/js/main.c22d41cf.js",
+    "static/js/787.fe757310.chunk.js": "/sourdevil-alpha/static/js/787.fe757310.chunk.js",
+    "index.html": "/sourdevil-alpha/index.html",
+    "main.0e2a52a8.css.map": "/sourdevil-alpha/static/css/main.0e2a52a8.css.map",
+    "main.c22d41cf.js.map": "/sourdevil-alpha/static/js/main.c22d41cf.js.map",
+    "787.fe757310.chunk.js.map": "/sourdevil-alpha/static/js/787.fe757310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e2a52a8.css",
+    "static/js/main.c22d41cf.js"
+  ]
+}
